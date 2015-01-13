@@ -1,0 +1,21 @@
+/home/stayhigh/nuRetry/human.all
+/home/stayhigh/nuRetry/human.all.uniword
+/home/stayhigh/nuRetry/human.all.word
+/home/stayhigh/oneclassNu_0.76/human.all
+/home/stayhigh/redobin2TwoFile/human.all
+
+
+140.112.26.222
+/data/experiments/termextract/autoSys/results/point_ext2_SVM/	< 前後文延伸 2 characters 長度
+/data/experiments/termextract/autoSys/results/point_ext3_SVM/	< 前後文延伸 3 characters 長度
+	fahua_te/Features2/iterativeSeed_fahua_2-3-4/3/				< iteration rounds
+		extract/
+			fahua_te_P_offsets_0.6
+			fahua_te.t.predict		< confidence source file
+
+API source code:
+/data/experiments/cnlstk_packages/current/
+	SuffixArray.py
+		__getWords()
+		__getsdroW()
+		getText()
